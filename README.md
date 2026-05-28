@@ -18,9 +18,13 @@ Restaura automaticamente o estilo padrão do terminal.
 
 Nível	Situação - Cor
 1	Muito baixo (crítico): Vermelho
+
 2	Baixo: Amarelo
+
 3	Médio: Verde
+
 4	Alto: Ciano
+
 5	Muito alto (alerta): Azul
 
 # Tecnologias Utilizadas
